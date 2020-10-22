@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+This project has only Calculator-Addition Functionality
+
 In the project directory, you can run:
 
 ### `npm start`
